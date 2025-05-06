@@ -1,0 +1,3 @@
+channels:
+  include: ["news18", "aajtak", "ndtv", "timesnow", "republicworld", "thehindu", "theprint", "hindustan_times", "business_standard", "moneycontrol", "thequint", "firstpost", "thewire", "newslaundry", "scroll", "zeennews"]
+  exclude: []
