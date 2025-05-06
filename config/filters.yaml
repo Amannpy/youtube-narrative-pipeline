@@ -1,0 +1,3 @@
+filters:
+  language: ["en", "hi", "hinglish"]
+  sentiment: ["positive", "negative", "neutral"]
