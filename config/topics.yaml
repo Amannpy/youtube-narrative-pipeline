@@ -1,0 +1,14 @@
+topics:
+- name: pahalgam_attack
+  search_terms:
+    - "Pahalgam terrorist attack"
+    - "Kashmir security breach"
+    - "Kashmir"
+    - "India"
+    - "Pakistan"
+    - "India vs Pakistan"
+    - "War"
+
+    date_range:
+      start: 2025-04-20
+      end: 2025-05-06
